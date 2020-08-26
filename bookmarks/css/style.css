@@ -1,0 +1,134 @@
+@charset "utf-8";
+
+/*
+Left Menu Area START
+*****************************************
+*/
+ul.menu-vert{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	display: block;
+	font: bold 16px Helvetica, Verdana, Arial, sans-serif;
+	line-height: 165%;
+	width: 100px;
+}
+
+ul.menu-vert li{
+	margin: 0;
+	padding: 0;
+}
+
+ul.menu-vert li a{
+	display: block;
+	text-decoration: none;
+	padding-top: 0;
+	padding-right: 0;
+	padding-left: 5px;
+	padding-bottom: 0;
+	width: 95px;
+	color: #E7EB5C;
+	background-color: #182F01;
+}
+
+ul.menu-vert li a:hover{
+	background-color: #E7EB5C;
+	color: #182F01;
+
+}
+
+ul.menu-vert li a.current,ul.vert-one li a.current:hover{
+	background-color: #182F01;  
+}
+
+/*
+Left Menu Area END
+*****************************************
+*/
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+.main {
+	min-width: 320px;
+}
+.menu {
+  
+  
+}
+.links {
+	min-height: 8000px;
+	min-width: 200px;
+}
+
+.section1 {
+	background-color: #182F01;
+	width: 206px;
+	height: 6500px;
+	float: left;
+}
+body {
+	background-color: #182F01;
+}
+
+.section2 {
+	background-color: #959F9C;
+	width: auto;
+	height: 6500px;
+	margin-left: 206px;
+	float: none;
+	color: #102100;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 1px;
+	margin-top: -10px;
+}
+.section2 a {
+  white-space: nowrap;
+	padding-top: 8px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	background-color: #182F01;
+	color: #E7EB5C;
+	border-radius: 10px;
+	line-height: 36px;
+	text-decoration: none;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+.section2 a:hover {
+	background-color: #E7EB5C;
+	color: #182F01;
+  cursor:cell;
+}
+
+
+.menuleft {
+	min-height: 350px;
+	float: left;
+	width: 100px;
+	border-left-style: solid;
+	position: fixed;
+}
+
+.menuright {
+	width: 100px;
+	min-height: 350px;
+	margin-left: 103px;
+	margin-right: 100px;
+	border-right-style: solid;
+	position: fixed;
+}
+
+
+
+#ext-link {
+	background-color: #CB8A2D;
+	color: #182F01;
+}
+#ext-link:hover {
+	background-color: #E7EB5C;
+	color: #660000;
+}
