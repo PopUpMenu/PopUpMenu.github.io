@@ -1,7 +1,6 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 A_AppDataCommon "\PopUpMenu_PUM\addons"
-any addon must menu text file must
-start with "addon_"
+any addon menu text file must start with "addon_"
 A_AppDataCommon "\PopUpMenu_PUM\addons\(APP NAME)\(LANG)\addon_(APP NAME)_(LANG).txt
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 (CREATE)(UPDATE)(ZIP)
