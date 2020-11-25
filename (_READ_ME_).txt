@@ -1,3 +1,6 @@
+
+
+
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 A_AppDataCommon "\PopUpMenu_PUM\addons"
 any addon menu text file must start with "addon_"
@@ -34,6 +37,7 @@ Current Addon Update Txt File
 
 Current Addons
 "SiteROOT"/system/current_addons.txt
+(Applaction Name)(.EXT)_(Lang)
 
 Used in F_ConnectCheck()
 "SiteROOT"/system/connect_check.html
