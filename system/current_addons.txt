@@ -1,2 +1,2 @@
-photoshop.exe_de
-photoshop.exe_en
+photoshop_de
+photoshop_en
