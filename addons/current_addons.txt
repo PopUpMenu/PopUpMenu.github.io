@@ -1,2 +1,2 @@
-photoshop_2020_de
-photoshop_2020_en
+photoshop_de
+photoshop_en
